@@ -1,0 +1,22 @@
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\bin\Debug\TikTakToServer.exe.config
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\bin\Debug\TikTakToServer.exe
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\bin\Debug\TikTakToServer.pdb
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.csproj.AssemblyReference.cache
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.Form1.resources
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.Properties.Resources.resources
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.csproj.GenerateResource.cache
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.exe
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Lab\Lab 4\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.pdb
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\bin\Debug\TikTakToServer.exe.config
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\bin\Debug\TikTakToServer.exe
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\bin\Debug\TikTakToServer.pdb
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.csproj.AssemblyReference.cache
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.Form1.resources
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.Properties.Resources.resources
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.csproj.GenerateResource.cache
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.csproj.CoreCompileInputs.cache
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.exe
+C:\Users\iTopya\Desktop\Sabancı\3. Sene 2. dönem\CS 408\Project\alkanutku_Alkan_Utku_Step1\Server\TikTakToServer\TikTakToServer\obj\Debug\TikTakToServer.pdb
